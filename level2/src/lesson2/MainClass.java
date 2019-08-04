@@ -79,7 +79,7 @@ public class MainClass {
 
                 } catch (IllegalArgumentException e) {
 
-                    throw new MyArrayDataException(" Неверный элемент массива содержится в ряду " + (i+1) + " ячейке " + (j+1));
+                    throw new MyArrayDataException(" Неверный элемент массива содержится в ряду " + (i) + " ячейке " + (j));
                 }
             }
 
