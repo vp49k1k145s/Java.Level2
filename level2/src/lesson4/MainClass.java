@@ -1,4 +1,10 @@
 package lesson4;
+/**
+ * Java. Level 2. Lesson 4
+ *
+ * @author Dzyubenko Vadim
+ * @version dated 07.08.2019
+ */
 
 import javax.swing.*;
 
