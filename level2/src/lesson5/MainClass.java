@@ -1,16 +1,17 @@
 package lesson5;
+
 /**
  * Java. Level 2. Lesson 5
  *
  * @author Dzyubenko Vadim
  * @version dated 11.08.2019
  */
-import java.util.Arrays;
+
 
 public class MainClass {
     private static final int SIZE = 10000000;
     private static final int HALF_SIZE = SIZE / 2;
-    
+
     public static void main(String s[]) {
         MainClass o = new MainClass();
         o.runOneThread();
